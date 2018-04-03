@@ -1,0 +1,19 @@
+div .divPost{
+	padding: 30px 0px;
+	background: grey;
+	margin: 200px 250px;
+	border-radius: 5px;
+}
+
+.allItems{
+	margin: 40px 150px;
+	text-align: center;
+}
+
+h1.allItems{
+	margin: 80px 0px 0px 0px;
+}
+
+p.allItems{
+	margin: 30px 300px 80px 300px;
+}
